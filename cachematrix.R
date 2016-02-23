@@ -3,10 +3,10 @@
 ## A) set the matrix values, B) get the value of the  matrix
 ## C) set the value of the inverse of the matrix
 ## d) get the value of the inverse of the matrix
-##cacheSolve is used to calculate the inverse of the "matrix 
-##created by makeCacheMatrix. Note that this checks if the inverse of 
+## cacheSolve is used to calculate the inverse of the "matrix"
+## created by makeCacheMatrix. Note that this checks if the inverse of 
 #such matrix has been previously calculated, if so, it returns
-##the previsouly cached value, otherwise it computes the inverse
+## the previsouly cached value, otherwise it computes the inverse
 ## and uses setinv to set the inverse value in the cache
 
 ## This function creates a "matrix" capable to cache its inverse
